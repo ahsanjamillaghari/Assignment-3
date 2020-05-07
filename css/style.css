@@ -1,0 +1,32 @@
+.firstbuttons{
+    border: 1px solid forestgreen;
+    color: forestgreen;
+}
+.firstpara{
+    margin-top: 7px;
+}
+.header-top{
+    justify-content: space-between;
+}
+.icons{
+    padding-right: 9px;
+    left: 9px;
+}
+.hoverbtn:hover{
+    background-color: #0275d8; !important;
+}
+/*#stickThis {*/
+/*    !*margin-top: 60px;*!*/
+/*    !*padding: 5px;*!*/
+/*    !*background-color: #ccc;*!*/
+/*    !*font-size: 1.5em;*!*/
+/*    !*text-align: center;*!*/
+/*}*/
+/*#stickThis.stick {*/
+/*    margin-top: 0;*/
+/*    position: fixed;*/
+/*    top: 0;*/
+/*    z-index: 9999;*/
+/*    !*-webkit-border-radius: 0 0 10px 10px;*!*/
+/*    !*border-radius: 0 0 10px 10px;*!*/
+/*}*/
